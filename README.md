@@ -1,2 +1,2 @@
 # Thermometer
- an animated thermometer
+ an animated thermometer made with only HTML, CSS & JS
